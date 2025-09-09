@@ -1,0 +1,13 @@
+C:\Users\86186\LibrarySystem\bin\Debug\netcoreapp3.1\LibrarySystem.exe
+C:\Users\86186\LibrarySystem\bin\Debug\netcoreapp3.1\LibrarySystem.deps.json
+C:\Users\86186\LibrarySystem\bin\Debug\netcoreapp3.1\LibrarySystem.runtimeconfig.json
+C:\Users\86186\LibrarySystem\bin\Debug\netcoreapp3.1\LibrarySystem.runtimeconfig.dev.json
+C:\Users\86186\LibrarySystem\bin\Debug\netcoreapp3.1\LibrarySystem.dll
+C:\Users\86186\LibrarySystem\bin\Debug\netcoreapp3.1\LibrarySystem.pdb
+C:\Users\86186\LibrarySystem\obj\Debug\netcoreapp3.1\LibrarySystem.csprojAssemblyReference.cache
+C:\Users\86186\LibrarySystem\obj\Debug\netcoreapp3.1\LibrarySystem.AssemblyInfoInputs.cache
+C:\Users\86186\LibrarySystem\obj\Debug\netcoreapp3.1\LibrarySystem.AssemblyInfo.cs
+C:\Users\86186\LibrarySystem\obj\Debug\netcoreapp3.1\LibrarySystem.csproj.CoreCompileInputs.cache
+C:\Users\86186\LibrarySystem\obj\Debug\netcoreapp3.1\LibrarySystem.dll
+C:\Users\86186\LibrarySystem\obj\Debug\netcoreapp3.1\LibrarySystem.pdb
+C:\Users\86186\LibrarySystem\obj\Debug\netcoreapp3.1\LibrarySystem.genruntimeconfig.cache
